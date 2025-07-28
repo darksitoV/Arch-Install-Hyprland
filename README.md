@@ -2,7 +2,7 @@
 
 Proyecto para facilitar la instalacion de Hyprland con ArchLinux base 
 
-** Planeacion de implementaciones **
+**Planeacion de implementaciones**
 
 - Funcionalidad por seleccion del usuario
 - Funcionalidad por defecto
